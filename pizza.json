@@ -3,7 +3,7 @@
          {
         "id": 10,
         "name": "Vegan Panner",
-        "price": "23.95",
+        "price": "56.52",
         "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
         "classifications": {
           "vegetarian": true
@@ -179,7 +179,7 @@
       {
         "id": 15,
         "name": "Tanduri Veggie",
-        "price": "23.95",
+        "price": "44.95",
         "menu_description": "Roasted Daiya vegan mozzarella, paired with fresh veggies",
         "classifications": {
           "vegetarian": true
@@ -361,7 +361,7 @@
       {
         "id": 17,
         "name": "The Veggie Paradise",
-        "price": "16.95",
+        "price": "134.95",
         "menu_description": "The Margherita—with California flair",
         "classifications": {
           "vegetarian": true
@@ -526,7 +526,7 @@
         {
         "id": 22,
         "name": "Farmhouse",
-        "price": "16.95",
+        "price": "90.95",
         "menu_description": "The Margherita—with California flair",
         "classifications": {
           "vegetarian": true
