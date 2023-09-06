@@ -92,7 +92,7 @@
         "id": 14,
         "name": "Fresh Veggie",
         "price": "23.95",
-        "menu_description": "Veggies extravenza vegan mozzarella, paired with fresh veggies",
+        "menu_description": "Veggies extravenza vegan mozzarella",
         "classifications": {
           "vegetarian": true
         },
