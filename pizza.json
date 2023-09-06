@@ -265,7 +265,7 @@
       },
       {
         "id": 16,
-        "name": "Veggie Zupreme",
+        "name": "Veggie Supreme",
         "price": "19.95",
         "menu_description": "The freshest, locally sourced veggies",
         "classifications": {
@@ -274,12 +274,12 @@
         "assets": {
           "menu": [
             {
-              "url": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg"
+              "url": "https://c4.wallpaperflare.com/wallpaper/1005/1000/931/delicious-pizza-pepperoni-pizza-wallpaper-preview.jpg"
             }
           ],
           "product_details_page": [
             {
-              "url": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg"
+              "url": "https://c4.wallpaperflare.com/wallpaper/1005/1000/931/delicious-pizza-pepperoni-pizza-wallpaper-preview.jpg"
             }
           ]
         },
@@ -360,7 +360,7 @@
       },
       {
         "id": 17,
-        "name": "The O.G.",
+        "name": "The Veggie Paradise",
         "price": "16.95",
         "menu_description": "The Margherita—with California flair",
         "classifications": {
@@ -369,12 +369,12 @@
         "assets": {
           "menu": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://w.forfun.com/fetch/29/2910bb796a6e000496a070340a3dd490.jpeg"
             }
           ],
           "product_details_page": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://w.forfun.com/fetch/29/2910bb796a6e000496a070340a3dd490.jpeg"
             }
           ]
         },
@@ -415,7 +415,7 @@
       },
         {
         "id": 18,
-        "name": "The O.G.",
+        "name": "Capsicum Onion ",
         "price": "16.95",
         "menu_description": "The Margherita—with California flair",
         "classifications": {
@@ -424,12 +424,12 @@
         "assets": {
           "menu": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://w.forfun.com/fetch/60/6097a5e72da684293dd5bc5a5e6bb653.jpeg"
             }
           ],
           "product_details_page": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://w.forfun.com/fetch/60/6097a5e72da684293dd5bc5a5e6bb653.jpeg"
             }
           ]
         },
@@ -470,7 +470,7 @@
       },
         {
         "id": 19,
-        "name": "The O.G.",
+        "name": "Tanduri Panner",
         "price": "16.95",
         "menu_description": "The Margherita—with California flair",
         "classifications": {
@@ -479,12 +479,12 @@
         "assets": {
           "menu": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://images4.alphacoders.com/276/276908.jpg"
             }
           ],
           "product_details_page": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://images4.alphacoders.com/276/276908.jpg"
             }
           ]
         },
@@ -525,7 +525,7 @@
       },
         {
         "id": 22,
-        "name": "The O.G.",
+        "name": "Farmhouse",
         "price": "16.95",
         "menu_description": "The Margherita—with California flair",
         "classifications": {
@@ -534,12 +534,12 @@
         "assets": {
           "menu": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://c4.wallpaperflare.com/wallpaper/1017/647/742/food-pizza-cheese-tomatoes-olives-hd-wallpaper-preview.jpg"
             }
           ],
           "product_details_page": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://c4.wallpaperflare.com/wallpaper/1017/647/742/food-pizza-cheese-tomatoes-olives-hd-wallpaper-preview.jpg"
             }
           ]
         },
@@ -581,7 +581,7 @@
         ,
         {
         "id": 32,
-        "name": "The O.G.",
+        "name": "The O.G. Tanduri",
         "price": "16.95",
         "menu_description": "The Margherita—with California flair",
         "classifications": {
@@ -590,12 +590,12 @@
         "assets": {
           "menu": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://img.lovepik.com/photo/50077/4812.jpg_wh860.jpg"
             }
           ],
           "product_details_page": [
             {
-              "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+              "url": "https://img.lovepik.com/photo/50077/4812.jpg_wh860.jpg"
             }
           ]
         },
