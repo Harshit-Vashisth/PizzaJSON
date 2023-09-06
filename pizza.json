@@ -2,7 +2,7 @@
     "Vegetarian": [
          {
         "id": 10,
-        "name": "Vegan Veggie",
+        "name": "Vegan Panner",
         "price": "23.95",
         "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
         "classifications": {
