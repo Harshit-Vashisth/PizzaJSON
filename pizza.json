@@ -90,9 +90,9 @@
         ,
          {
         "id": 14,
-        "name": "Vegan Veggie",
+        "name": "Fresh Veggie",
         "price": "23.95",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "menu_description": "Veggies extravenza vegan mozzarella, paired with fresh veggies",
         "classifications": {
           "vegetarian": true
         },
@@ -178,9 +178,9 @@
         ,
       {
         "id": 15,
-        "name": "Vegan Veggie",
+        "name": "Tanduri Veggie",
         "price": "23.95",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "menu_description": "Roasted Daiya vegan mozzarella, paired with fresh veggies",
         "classifications": {
           "vegetarian": true
         },
@@ -265,7 +265,7 @@
       },
       {
         "id": 16,
-        "name": "Veggie Supreme",
+        "name": "Oregano Panner Supreme",
         "price": "19.95",
         "menu_description": "The freshest, locally sourced veggies",
         "classifications": {
@@ -417,7 +417,7 @@
         "id": 18,
         "name": "Capsicum Onion ",
         "price": "16.95",
-        "menu_description": "The Margherita—with California flair",
+        "menu_description": "Veg loaded with  Margherita—with California flair",
         "classifications": {
           "vegetarian": true
         },
@@ -472,7 +472,7 @@
         "id": 19,
         "name": "Tanduri Panner",
         "price": "16.95",
-        "menu_description": "The Margherita—with California flair",
+        "menu_description": "The Margherita—with California flair , with panner onion ",
         "classifications": {
           "vegetarian": true
         },
@@ -583,7 +583,7 @@
         "id": 32,
         "name": "The O.G. Tanduri",
         "price": "16.95",
-        "menu_description": "The Margherita—with California flair",
+        "menu_description": "Tomato Sauce with  Margherita—with California flair",
         "classifications": {
           "vegetarian": true
         },
